@@ -56,3 +56,7 @@ pick it in the dropdown → **⚡ Quick Connect & Mirror**.
 - Phone and PC on the same WiFi subnet.
 - Developer options + Wireless debugging enabled.
 - A scrcpy release (providing `adb` and `scrcpy`).
+
+## License
+
+[GPL-3.0-or-later](LICENSE).

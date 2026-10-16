@@ -2,6 +2,9 @@
 name = "scrcpy-wireless-gui"
 version = "0.1.0"
 edition = "2021"
+license = "GPL-3.0-or-later"
+description = "GUI for mirroring Android over WiFi with scrcpy"
+repository = "https://github.com/ifirmawan/scrcpy-wireless-gui"
 
 [dependencies]
 eframe = "0.29"
